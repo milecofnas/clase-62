@@ -1,0 +1,35 @@
+body {
+    background-color: #ecf5ff;
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 36px;
+    color: #283d50;
+}
+
+.title p {
+    font-size: 20px;
+}
+
+.tarjeta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    background-color: white;
+}
+.tarjeta .contenedor{
+    width: 300px;
+    margin: 30px;
+}
+ 
+
+.tarjeta .card img{
+   width: 100%;
+   height: auto;
+}
+
+
